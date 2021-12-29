@@ -1,6 +1,3 @@
-#setwd("~/Dropbox/TW_backup/CITSCI/dataAnalysis/v12")
-#setwd("C:/Users/twoods9/Dropbox/TW_backup/CITSCI/dataAnalysis/v12")
-setwd("C:/Users/giam/Dropbox/Taylor Woods/Woods&Giam/CitizenScience_FEE/v13/dataCode")
 
 
 library(dplyr); library(car); library(glmmTMB); library(DHARMa); library(MuMIn); library(bbmle)
